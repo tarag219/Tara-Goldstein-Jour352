@@ -1,0 +1,53 @@
+.container-fluid {
+    background-color: white;
+}
+
+
+#topper {
+    background-color: #90a9b7 ;
+}
+
+
+h1 {
+    font-family: 'Noto Serif', serif ;
+}
+
+h2 {
+     font-family: 'PT Sans', sans-serif;
+    font-size: 20px
+}
+
+img {
+  border-radius: 50%;
+}
+
+button {
+    background-color: #d2d8b3 ;
+    color: black;
+    Font-Family: 'Noto Serif', serif ;
+    width: 100px ;
+    padding: 10px ;
+    border: none ; 
+    border-radius: 10px ;
+}
+
+h3 {
+    font-family: 'Noto Serif', serif ;
+}
+
+p {
+    font-family: 'PT Sans', sans-serif;
+}
+
+u1 {
+    font-family: 'PT Sans', sans-serif;
+}
+
+button { 
+    font-family: 'Noto Serif', serif ;
+}
+
+#bottom {
+    background-color: #d4aa7d ;
+}
+
