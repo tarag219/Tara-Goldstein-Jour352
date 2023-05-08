@@ -10,28 +10,47 @@
         background-size: cover ;
         background-position: center
     }
-
-
+    
     h1 {
-        padding: 400px 0px 30px 20px; 
+        padding: 400px 0px 30px 500px; 
         font-family: 'Roboto', sans-serif;
+    }
+    
+     #navigation {
+        background-color: #2f3061 ;
+        color: #dfdfdf ;
+        font-family: 'Roboto', sans-serif;   
     }
 
 
-    .body {
+ .body {
         font-family: 'PT Serif', serif;
     }
 
 
-
-
-
-
-
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
-
-
-
+    
+    .caption {
+        font-size: 12px ;
+        align-content: center ;
+    }
+    
+    .pullquote {
+        background-color: #2f3061 ;
+        color: white ;
+        font-size: 22px ;
+        font-family: 'Roboto', sans-serif;
+    }
+    
+   
+    
+    
+    
+}
 
 
 
@@ -43,7 +62,8 @@
 
 
 @media (min-width:992px) { 
-might not need 
+
+    
 }
 
 
