@@ -1,0 +1,53 @@
+@media { 
+
+
+    .lead {
+        width: 100%
+    }
+
+    .topper {
+        background-image: url(8d060352-dba2-4e14-9d0f-990b9d16fed7-GettyImages-1230638928.jpg) ;
+        background-size: cover ;
+        background-position: center
+    }
+
+
+    h1 {
+        padding: 400px 0px 30px 20px; 
+        font-family: 'Roboto', sans-serif;
+    }
+
+
+    .body {
+        font-family: 'PT Serif', serif;
+    }
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+@media (min-width:576px) {
+    
+}
+
+
+@media (min-width:992px) { 
+might not need 
+}
+
+
+@media (min-width:1200px) {
+    
+    
+}
