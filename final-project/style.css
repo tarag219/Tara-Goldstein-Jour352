@@ -25,14 +25,12 @@
 
  .body {
         font-family: 'PT Serif', serif;
+        width: 80% ;
     }
 
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
+    img {
+        width: 100% ;
+    }
     
     .caption {
         font-size: 12px ;
@@ -46,6 +44,26 @@
         font-family: 'Roboto', sans-serif;
     }
     
+   
+    .pullquote2 {
+    font-size:30px;
+    font-family: 'Roboto', sans-serif; 
+    align-content: center ;
+    color: #0e34a0 ;
+    padding: 40px ;
+    margin: 0 auto;
+    }
+    
+    #highlight {
+    background-color: lightyellow ;
+    font-weight: bold
+}
+
+    .subhead { 
+    border-bottom: 3px solid black ; 
+    padding: 0px 0px 3px 0px ;
+    margin: 30px 0px 20px 0px ;
+    }
    
     
     
