@@ -33,7 +33,7 @@
 
  .body {
         font-family: 'PT Serif', serif;
-        width: 80% ;
+        width: 90% ;
     }
 
     img {
@@ -44,62 +44,68 @@
         font-size: 12px ;
         align-content: center ;
     }
+
     
-    .pullquote {
+    .quote {
+        font-size: 30px ;
+        margin: 20px 5px 20px 5px ;
         background-color: #2f3061 ;
         color: white ;
-        font-size: 22px ;
         font-family: 'Raleway', sans-serif;
-        padding: 5px 7px 5px 7px ;
-        margin: 10px 5px 10px 5px ;
+        padding: 25px 15px 15px 15px;
+        margin: 50px 0px 0px 0px ;
     }
     
+    .attribution {
+        font-size: 15px ; 
+        margin: 0px 0px 50px 5px ;
+    }
    
     .pullquote2 {
-    font-size:30px;
     font-family: 'Raleway', sans-serif; 
-    align-content: center ;
     color: #0e34a0 ;
-    padding: 40px ;
-    margin: 0 auto;
+    padding: 15px 0px 10px 15px;
+    margin: 50px 0px 50px 0px ;
+    border: 3px solid #2F3061 ;
+    }
+    
+    .quote2{ 
+    font-size: 30px ;
     }
     
     #highlight {
-    background-color: lightyellow ;
+    background-color: #dfdfdf ;
     font-weight: bold
-}
+    }
 
     .subhead { 
     border-bottom: 3px solid black ; 
     padding: 0px 0px 3px 0px ;
     margin: 50px 0px 20px 0px ;
     }
+    
    
     .end {
         font-style: italic ;
-    }
+        font-size: 10px;
+        }
     
 }
-
-
-
 
 
 @media (min-width:576px) {
-    
-    .topper {
-        background-image: url(8d060352-dba2-4e14-9d0f-990b9d16fed7-GettyImages-1230638928.jpg) ;
-        background-size: cover ;
-        background-position: center
-}
 
       h1 {
-        padding: 450px 20px 30px 320px; 
+        padding: 450px 20px 30px 340px; 
         font-family: 'Raleway', sans-serif;
         font-weight: 700 ;
-        font-size: 40px ;
+        font-size: 35px ;
         text-align: center ;
-    }
+        }
+    
+    .body {
+        width: 80% ;
+        }
 
 @media (min-width:992px) { 
 
@@ -109,7 +115,10 @@
         font-weight: 700 ;
         font-size: 40px ;
         text-align: center ;
-}
+        }
+        .body {
+        width: 80% ;
+            }
 
 
 @media (min-width:1200px) {
@@ -119,6 +128,9 @@
         font-weight: 700 ;
         font-size: 45px ;
         text-align: center ;
-    } 
+        } 
     
+        .body {
+        width: 80% ;
+            }
 }
