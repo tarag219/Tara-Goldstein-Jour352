@@ -97,10 +97,6 @@
 
       h1 {
         padding: 450px 20px 30px 340px; 
-        font-family: 'Raleway', sans-serif;
-        font-weight: 700 ;
-        font-size: 35px ;
-        text-align: center ;
         }
     
     .body {
@@ -111,10 +107,6 @@
 
         h1 {
         padding: 400px 0px 30px 430px; 
-        font-family: 'Raleway', sans-serif;
-        font-weight: 700 ;
-        font-size: 40px ;
-        text-align: center ;
         }
         .body {
         width: 80% ;
@@ -124,12 +116,7 @@
 @media (min-width:1200px) {
      h1 {
         padding: 400px 0px 30px 575px; 
-        font-family: 'Raleway', sans-serif;
-        font-weight: 700 ;
-        font-size: 45px ;
-        text-align: center ;
         } 
-    
         .body {
         width: 80% ;
             }
